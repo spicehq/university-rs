@@ -61,6 +61,8 @@ Your repository should include the following:
 1. **Use this GitHub Template**
 
    - Use this repository template to create your repository.
+     
+  <img width="433" alt="image" src="https://github.com/user-attachments/assets/08bec3eb-8afc-4951-ba5a-78b762a055b1">
 
 2. **Develop Your Application**
 
